@@ -3,13 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Unofficial PC Namibia Resources and Reminders</title>
 </head>
 <body>
     <header>
         <h1>Unofficial PC Namibia Resources and Reminders</h1>
     </header>
-
     <nav>
         <ul>
             <li><a href="#vrg-due-dates">VRG Due Dates</a></li>
@@ -20,7 +18,6 @@
             <li><a href="#time-away-form">Time Away from Site Form</a></li>
         </ul>
     </nav>
-
     <section id="vrg-due-dates">
         <h2>VRG Due Dates</h2>
         <table>
@@ -38,7 +35,6 @@
             </tr>
         </table>
     </section>
-
       <section id="medical-refill-due-dates">
         <h2>Medical Refill Requests</h2>
         <table>
@@ -64,11 +60,9 @@
             </tr>
         </table>
     </section>
-
     <section id="medical-refill-form">
         <p><a href="dummy_medical_refill_form.html">Medical Refill Form download</a></p>
     </section>
-
     <section id="travel-time-off-due-dates">
         <p>All time-off and vacation requests must be made at least 30 days but no more than 60 days before the planned travel.</p>
         <p><a href="dummy_travel_request_form.html">Travel Request Form download</a></p>
